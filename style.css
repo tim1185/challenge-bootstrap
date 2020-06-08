@@ -1,0 +1,31 @@
+body {
+    background-color: #d0e8f5;
+}
+
+
+
+.sidenav{
+    background-color: turquoise;
+    width: 100px;
+    height: 200px;
+
+}
+.row {
+    background-color: white;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding: 3px;
+   border-left: 10px;
+   border-right: 10px;
+    display: -moz-inline-grid;
+}
+a {
+    padding: 5px;
+}
+.col {
+    border-left: 10px;
+    border-right: 10px;
+}
+
+
+
